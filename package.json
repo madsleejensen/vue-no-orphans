@@ -1,0 +1,23 @@
+{
+  "name": "vue-no-orphans",
+  "description": "ensure titles never line break with a single orphan word",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "type": "module",
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "Mads Jensen",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.0",
+    "vue": "^3.0.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
