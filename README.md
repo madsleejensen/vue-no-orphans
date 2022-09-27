@@ -7,10 +7,10 @@ Ensures titles never line break into a single orphan word.
 ### Example
 
 without
-![Title breaks into a orphan word](./docs/without.png)
+![Title breaks into a orphan word](https://raw.githubusercontent.com/madsleejensen/vue-no-orphans/master/docs/without.png)
 
 using the `v-no-orphans` directive
-![Breaks into minimum two words](./docs/no-orphans.png)
+![Breaks into minimum two words](https://raw.githubusercontent.com/madsleejensen/vue-no-orphans/master/docs/no-orphans.png)
 
 
 

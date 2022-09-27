@@ -1,7 +1,7 @@
 {
   "name": "vue-no-orphans",
   "description": "ensure titles never line break with a single orphan word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "tsc"
   },
@@ -12,6 +12,16 @@
   "license": "ISC",
   "engines": {
     "node": ">=14.17.0"
+  },
+  "keywords": [
+    "orphans",
+    "vue",
+    "word-wrap",
+    "line-break"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madsleejensen/vue-no-orphans.git"
   },
   "devDependencies": {
     "typescript": "^4.8.0",
